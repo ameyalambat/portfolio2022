@@ -12,7 +12,7 @@ export const ContactInfo = [
   {
     icon: <AiFillGithub />,
     name: "GitHub",
-    link: "https://github.com/ameyalambat128",
+    link: "https://github.com/ameyalambat",
     id: 0,
   },
   {

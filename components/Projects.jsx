@@ -34,7 +34,7 @@ const Projects = () => {
                     wallet.
                   </span>
                   <a
-                    href="https://github.com/ameyalambat128/median"
+                    href="https://github.com/ameyalambat/median"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -154,7 +154,7 @@ const Projects = () => {
                     saved by the program.
                   </span>
                   <a
-                    href="https://github.com/ameyalambat128/Notetaking-App"
+                    href="https://github.com/ameyalambat/note-list"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -193,7 +193,7 @@ const Projects = () => {
                     fetch information from the API of TMBD.
                   </span>
                   <a
-                    href="https://github.com/ameyalambat128/netfilx-clone"
+                    href="https://github.com/ameyalambat/netfilx-clone"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -234,7 +234,7 @@ const Projects = () => {
                     Directions API for the search bars and map.
                   </span>
                   <a
-                    href="https://github.com/ameyalambat128/uber-clone"
+                    href="https://github.com/ameyalambat/uber-clone"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
